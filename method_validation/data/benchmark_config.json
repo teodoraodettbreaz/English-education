@@ -1,0 +1,164 @@
+{
+  "counts": {
+    "development": 32,
+    "final_test_feasible": 240,
+    "formal_test_total": 264,
+    "sentinel": 24,
+    "validation": 16
+  },
+  "design": {
+    "cefr_levels": [
+      "A1",
+      "B1",
+      "B2"
+    ],
+    "final_test_per_stratum": 20,
+    "scenario_counts_per_stratum": {
+      "ambiguous": 2,
+      "easy": 6,
+      "hard": 3,
+      "standard": 3,
+      "tail_risk": 6
+    },
+    "sentinels_per_stratum": 2,
+    "target_counts": [
+      4,
+      8
+    ],
+    "terminal_path_counts": [
+      8,
+      16
+    ]
+  },
+  "generator_version": "pathlex-spec-builder-1.0.0",
+  "global_seed": 2026112101,
+  "planner_verification": {
+    "development_plan_feasible": 32,
+    "final_test_plan_feasible": 240,
+    "selected_depth_patterns": {
+      "4": [
+        [
+          1,
+          2,
+          3
+        ]
+      ],
+      "5": [
+        [
+          1,
+          2,
+          3
+        ]
+      ]
+    },
+    "sentinel_plan_infeasible": 24,
+    "sentinel_reason_counts": {
+      "INSUFFICIENT_DISTINCT_DEPTHS": 12,
+      "NO_DEPTH_COMBINATION_SATISFIES_CONSTRAINTS": 12
+    },
+    "validation_plan_feasible": 16
+  },
+  "scenario_counts_verified": {
+    "A1_T04_P08": {
+      "ambiguous": 2,
+      "easy": 6,
+      "hard": 3,
+      "standard": 3,
+      "tail_risk": 6
+    },
+    "A1_T04_P16": {
+      "ambiguous": 2,
+      "easy": 6,
+      "hard": 3,
+      "standard": 3,
+      "tail_risk": 6
+    },
+    "A1_T08_P08": {
+      "ambiguous": 2,
+      "easy": 6,
+      "hard": 3,
+      "standard": 3,
+      "tail_risk": 6
+    },
+    "A1_T08_P16": {
+      "ambiguous": 2,
+      "easy": 6,
+      "hard": 3,
+      "standard": 3,
+      "tail_risk": 6
+    },
+    "B1_T04_P08": {
+      "ambiguous": 2,
+      "easy": 6,
+      "hard": 3,
+      "standard": 3,
+      "tail_risk": 6
+    },
+    "B1_T04_P16": {
+      "ambiguous": 2,
+      "easy": 6,
+      "hard": 3,
+      "standard": 3,
+      "tail_risk": 6
+    },
+    "B1_T08_P08": {
+      "ambiguous": 2,
+      "easy": 6,
+      "hard": 3,
+      "standard": 3,
+      "tail_risk": 6
+    },
+    "B1_T08_P16": {
+      "ambiguous": 2,
+      "easy": 6,
+      "hard": 3,
+      "standard": 3,
+      "tail_risk": 6
+    },
+    "B2_T04_P08": {
+      "ambiguous": 2,
+      "easy": 6,
+      "hard": 3,
+      "standard": 3,
+      "tail_risk": 6
+    },
+    "B2_T04_P16": {
+      "ambiguous": 2,
+      "easy": 6,
+      "hard": 3,
+      "standard": 3,
+      "tail_risk": 6
+    },
+    "B2_T08_P08": {
+      "ambiguous": 2,
+      "easy": 6,
+      "hard": 3,
+      "standard": 3,
+      "tail_risk": 6
+    },
+    "B2_T08_P16": {
+      "ambiguous": 2,
+      "easy": 6,
+      "hard": 3,
+      "standard": 3,
+      "tail_risk": 6
+    }
+  },
+  "target_defaults": {
+    "context_label_count": 3,
+    "max_gap": 1,
+    "min_contexts": 2,
+    "min_gap": 0,
+    "min_occurrences": 3,
+    "mode_requirements": {
+      "exposure": 1,
+      "judgment": 1,
+      "retrieval": 1
+    },
+    "required_phases": [
+      "opening",
+      "middle",
+      "ending"
+    ]
+  }
+}

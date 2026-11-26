@@ -1,0 +1,1 @@
+Apply every frozen check independently. Focus especially on part of speech, required pattern, collocation, and grammatical naturalness. Do not view automated verdicts.

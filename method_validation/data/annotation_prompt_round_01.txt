@@ -1,0 +1,1 @@
+Apply every frozen check independently. Focus especially on target sense and contextual fit. Do not infer a label from method identity or any automated verdict.

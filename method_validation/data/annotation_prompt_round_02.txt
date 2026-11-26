@@ -1,0 +1,1 @@
+Apply every frozen check independently. Focus especially on answer hiding, retrieval eligibility, feedback timing, and incoming story state. Do not view automated verdicts.

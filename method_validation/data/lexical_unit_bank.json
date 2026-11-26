@@ -1,0 +1,926 @@
+{
+  "A1": [
+    {
+      "allowed_collocations": [
+        "borrow a map"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of borrow"
+      ],
+      "lemma": "borrow",
+      "negative_examples": [
+        "The sign displayed the word borrow without using its meaning."
+      ],
+      "part_of_speech": "verb",
+      "positive_examples": [
+        "Lina asked to borrow a map for the walk."
+      ],
+      "sense": "take and use something temporarily, then return it"
+    },
+    {
+      "allowed_collocations": [
+        "choose a path"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of choose"
+      ],
+      "lemma": "choose",
+      "negative_examples": [
+        "The guide called the path a choose."
+      ],
+      "part_of_speech": "verb",
+      "positive_examples": [
+        "We must choose a path before sunset."
+      ],
+      "sense": "select one option from two or more"
+    },
+    {
+      "allowed_collocations": [
+        "carry a bag"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of carry"
+      ],
+      "lemma": "carry",
+      "negative_examples": [
+        "The music carried well across the hall."
+      ],
+      "part_of_speech": "verb",
+      "positive_examples": [
+        "Omar will carry a bag to the station."
+      ],
+      "sense": "hold and move something from one place to another"
+    },
+    {
+      "allowed_collocations": [
+        "invite a friend"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of invite"
+      ],
+      "lemma": "invite",
+      "negative_examples": [
+        "The empty room looked invite."
+      ],
+      "part_of_speech": "verb",
+      "positive_examples": [
+        "Mia decided to invite a friend to the picnic."
+      ],
+      "sense": "ask someone to come or take part"
+    },
+    {
+      "allowed_collocations": [
+        "a quiet room"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of quiet"
+      ],
+      "lemma": "quiet",
+      "negative_examples": [
+        "Kai quieted the alarm quickly."
+      ],
+      "part_of_speech": "adjective",
+      "positive_examples": [
+        "They found a quiet room to read in."
+      ],
+      "sense": "making little or no noise"
+    },
+    {
+      "allowed_collocations": [
+        "arrive early"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of early"
+      ],
+      "lemma": "early",
+      "negative_examples": [
+        "They ate an early made of fruit."
+      ],
+      "part_of_speech": "adverb",
+      "positive_examples": [
+        "We should arrive early for the train."
+      ],
+      "sense": "before the expected or usual time"
+    },
+    {
+      "allowed_collocations": [
+        "follow the signs"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of follow"
+      ],
+      "lemma": "follow",
+      "negative_examples": [
+        "The blue follow was on the wall."
+      ],
+      "part_of_speech": "verb",
+      "positive_examples": [
+        "Please follow the signs to the garden."
+      ],
+      "sense": "go behind or along the route shown by someone or something"
+    },
+    {
+      "allowed_collocations": [
+        "return home"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of return"
+      ],
+      "lemma": "return",
+      "negative_examples": [
+        "The shop gave a return of five coins."
+      ],
+      "part_of_speech": "verb",
+      "positive_examples": [
+        "They will return home after the game."
+      ],
+      "sense": "go or come back to a place"
+    },
+    {
+      "allowed_collocations": [
+        "a safe route"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of safe"
+      ],
+      "lemma": "safe",
+      "negative_examples": [
+        "She put the letter in a safe."
+      ],
+      "part_of_speech": "adjective",
+      "positive_examples": [
+        "The bridge is a safe route across the stream."
+      ],
+      "sense": "not likely to cause harm or danger"
+    },
+    {
+      "allowed_collocations": [
+        "share some food"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of share"
+      ],
+      "lemma": "share",
+      "negative_examples": [
+        "The company sold a share yesterday."
+      ],
+      "part_of_speech": "verb",
+      "positive_examples": [
+        "Noah offered to share some food with Ana."
+      ],
+      "sense": "let another person use or have part of something"
+    },
+    {
+      "allowed_collocations": [
+        "wait for the bus"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of wait"
+      ],
+      "lemma": "wait",
+      "negative_examples": [
+        "The box had a heavy wait."
+      ],
+      "part_of_speech": "verb",
+      "positive_examples": [
+        "We can wait for the bus near the library."
+      ],
+      "sense": "stay until an expected event or person arrives"
+    },
+    {
+      "allowed_collocations": [
+        "help a visitor"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of help"
+      ],
+      "lemma": "help",
+      "negative_examples": [
+        "The soup tasted help."
+      ],
+      "part_of_speech": "verb",
+      "positive_examples": [
+        "Tariq stopped to help a visitor read the map."
+      ],
+      "sense": "make it easier for someone to do something"
+    },
+    {
+      "allowed_collocations": [
+        "near the gate"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of near"
+      ],
+      "lemma": "near",
+      "negative_examples": [
+        "They nearly the gate at noon."
+      ],
+      "part_of_speech": "preposition",
+      "positive_examples": [
+        "The bicycle is near the gate."
+      ],
+      "sense": "at a short distance from a place or thing"
+    },
+    {
+      "allowed_collocations": [
+        "ready to leave"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of ready"
+      ],
+      "lemma": "ready",
+      "negative_examples": [
+        "She readied as a blue notebook."
+      ],
+      "part_of_speech": "adjective",
+      "positive_examples": [
+        "Everyone was ready to leave at nine."
+      ],
+      "sense": "prepared for an activity or event"
+    },
+    {
+      "allowed_collocations": [
+        "remember the code"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of remember"
+      ],
+      "lemma": "remember",
+      "negative_examples": [
+        "The old statue was a remember."
+      ],
+      "part_of_speech": "verb",
+      "positive_examples": [
+        "Please remember the code for the door."
+      ],
+      "sense": "keep or bring a fact or event back to mind"
+    },
+    {
+      "allowed_collocations": [
+        "a different answer"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of different"
+      ],
+      "lemma": "different",
+      "negative_examples": [
+        "They different the two bags carefully."
+      ],
+      "part_of_speech": "adjective",
+      "positive_examples": [
+        "Leo gave a different answer to the question."
+      ],
+      "sense": "not the same as another thing"
+    },
+    {
+      "allowed_collocations": [
+        "be careful"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of careful"
+      ],
+      "lemma": "careful",
+      "negative_examples": [
+        "She careful carried the glass."
+      ],
+      "part_of_speech": "adjective",
+      "positive_examples": [
+        "Be careful when you cross the wet floor."
+      ],
+      "sense": "giving attention in order to avoid a mistake or danger"
+    },
+    {
+      "allowed_collocations": [
+        "decide to stay"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of decide"
+      ],
+      "lemma": "decide",
+      "negative_examples": [
+        "The decide was printed in red."
+      ],
+      "part_of_speech": "verb",
+      "positive_examples": [
+        "They decide to stay until the rain stops."
+      ],
+      "sense": "make a choice after thinking"
+    }
+  ],
+  "B1": [
+    {
+      "allowed_collocations": [
+        "navigate the trail"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of navigate"
+      ],
+      "lemma": "navigate",
+      "negative_examples": [
+        "The website menu was easy to navigate, but no physical route was involved."
+      ],
+      "part_of_speech": "verb",
+      "positive_examples": [
+        "The team used landmarks to navigate the trail."
+      ],
+      "sense": "find and follow a route through a place"
+    },
+    {
+      "allowed_collocations": [
+        "resolve a conflict"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of resolve"
+      ],
+      "lemma": "resolve",
+      "negative_examples": [
+        "The camera can resolve fine details in low light."
+      ],
+      "part_of_speech": "verb",
+      "positive_examples": [
+        "The two groups met to resolve a conflict about the route."
+      ],
+      "sense": "find a satisfactory solution to a problem"
+    },
+    {
+      "allowed_collocations": [
+        "estimate the distance"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of estimate"
+      ],
+      "lemma": "estimate",
+      "negative_examples": [
+        "The final estimate was used as a verb object incorrectly."
+      ],
+      "part_of_speech": "verb",
+      "positive_examples": [
+        "Priya tried to estimate the distance to the tower."
+      ],
+      "sense": "judge an amount or value approximately"
+    },
+    {
+      "allowed_collocations": [
+        "maintain the equipment"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of maintain"
+      ],
+      "lemma": "maintain",
+      "negative_examples": [
+        "The witness maintained that the story was true."
+      ],
+      "part_of_speech": "verb",
+      "positive_examples": [
+        "Volunteers maintain the equipment after every trip."
+      ],
+      "sense": "keep something in a good or continuing condition"
+    },
+    {
+      "allowed_collocations": [
+        "observe the pattern"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of observe"
+      ],
+      "lemma": "observe",
+      "negative_examples": [
+        "The town will observe the holiday on Monday."
+      ],
+      "part_of_speech": "verb",
+      "positive_examples": [
+        "We stopped to observe the pattern of lights."
+      ],
+      "sense": "watch something carefully"
+    },
+    {
+      "allowed_collocations": [
+        "recommend a route"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of recommend"
+      ],
+      "lemma": "recommend",
+      "negative_examples": [
+        "The notice was a recommend near the desk."
+      ],
+      "part_of_speech": "verb",
+      "positive_examples": [
+        "The ranger will recommend a route for beginners."
+      ],
+      "sense": "suggest that something is suitable"
+    },
+    {
+      "allowed_collocations": [
+        "avoid the traffic"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of avoid"
+      ],
+      "lemma": "avoid",
+      "negative_examples": [
+        "The empty space was an avoid."
+      ],
+      "part_of_speech": "verb",
+      "positive_examples": [
+        "We left early to avoid the traffic downtown."
+      ],
+      "sense": "stay away from or prevent contact with something"
+    },
+    {
+      "allowed_collocations": [
+        "confirm the booking"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of confirm"
+      ],
+      "lemma": "confirm",
+      "negative_examples": [
+        "The music confirmed the room with sound."
+      ],
+      "part_of_speech": "verb",
+      "positive_examples": [
+        "Call the hostel to confirm the booking."
+      ],
+      "sense": "establish that something is true or correct"
+    },
+    {
+      "allowed_collocations": [
+        "compare two options"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of compare"
+      ],
+      "lemma": "compare",
+      "negative_examples": [
+        "The compare was stored in a drawer."
+      ],
+      "part_of_speech": "verb",
+      "positive_examples": [
+        "They compare two options before choosing."
+      ],
+      "sense": "examine things to identify similarities or differences"
+    },
+    {
+      "allowed_collocations": [
+        "respond to a request"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of respond"
+      ],
+      "lemma": "respond",
+      "negative_examples": [
+        "They bought a respond at the market."
+      ],
+      "part_of_speech": "verb",
+      "positive_examples": [
+        "Please respond to the request by Friday."
+      ],
+      "sense": "say or do something as an answer or reaction"
+    },
+    {
+      "allowed_collocations": [
+        "require permission"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of require"
+      ],
+      "lemma": "require",
+      "negative_examples": [
+        "The sign was very require."
+      ],
+      "part_of_speech": "verb",
+      "positive_examples": [
+        "This route will require permission from the park office."
+      ],
+      "sense": "need something for a particular purpose"
+    },
+    {
+      "allowed_collocations": [
+        "tickets are available"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of available"
+      ],
+      "lemma": "available",
+      "negative_examples": [
+        "The clerk availabled two seats."
+      ],
+      "part_of_speech": "adjective",
+      "positive_examples": [
+        "Extra tickets are available at the front desk."
+      ],
+      "sense": "able to be used or obtained"
+    },
+    {
+      "allowed_collocations": [
+        "a reliable source"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of reliable"
+      ],
+      "lemma": "reliable",
+      "negative_examples": [
+        "The machine reliabled all night."
+      ],
+      "part_of_speech": "adjective",
+      "positive_examples": [
+        "Use a reliable source to check the timetable."
+      ],
+      "sense": "consistently dependable or accurate"
+    },
+    {
+      "allowed_collocations": [
+        "face a challenge"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of challenge"
+      ],
+      "lemma": "challenge",
+      "negative_examples": [
+        "They challenge was carefully packed."
+      ],
+      "part_of_speech": "noun",
+      "positive_examples": [
+        "Crossing the valley will be a challenge for the group."
+      ],
+      "sense": "a difficult task that tests ability"
+    },
+    {
+      "allowed_collocations": [
+        "notice a change"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of notice"
+      ],
+      "lemma": "notice",
+      "negative_examples": [
+        "The office posted a notice about closing time."
+      ],
+      "part_of_speech": "verb",
+      "positive_examples": [
+        "Did you notice a change in the weather?"
+      ],
+      "sense": "become aware of something"
+    },
+    {
+      "allowed_collocations": [
+        "protect the habitat"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of protect"
+      ],
+      "lemma": "protect",
+      "negative_examples": [
+        "The helmet was a protect."
+      ],
+      "part_of_speech": "verb",
+      "positive_examples": [
+        "The new fence will protect the habitat from damage."
+      ],
+      "sense": "keep someone or something safe from harm"
+    },
+    {
+      "allowed_collocations": [
+        "prepare for the trip"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of prepare"
+      ],
+      "lemma": "prepare",
+      "negative_examples": [
+        "The prepare looked blue."
+      ],
+      "part_of_speech": "verb",
+      "positive_examples": [
+        "We met to prepare for the trip on Saturday."
+      ],
+      "sense": "make ready for a future activity"
+    },
+    {
+      "allowed_collocations": [
+        "suggest an alternative"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of suggest"
+      ],
+      "lemma": "suggest",
+      "negative_examples": [
+        "They bought a suggest at the station."
+      ],
+      "part_of_speech": "verb",
+      "positive_examples": [
+        "Ella will suggest an alternative if the road closes."
+      ],
+      "sense": "put forward an idea for consideration"
+    }
+  ],
+  "B2": [
+    {
+      "allowed_collocations": [
+        "mitigate the risk"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of mitigate"
+      ],
+      "lemma": "mitigate",
+      "negative_examples": [
+        "The committee mitigated the map on the table."
+      ],
+      "part_of_speech": "verb",
+      "positive_examples": [
+        "The revised route should mitigate the risk of flooding."
+      ],
+      "sense": "make a harmful effect less severe"
+    },
+    {
+      "allowed_collocations": [
+        "allocate resources"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of allocate"
+      ],
+      "lemma": "allocate",
+      "negative_examples": [
+        "The map allocated toward the river by itself."
+      ],
+      "part_of_speech": "verb",
+      "positive_examples": [
+        "The coordinator will allocate resources to each team."
+      ],
+      "sense": "distribute resources for a particular purpose"
+    },
+    {
+      "allowed_collocations": [
+        "infer from evidence"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of infer"
+      ],
+      "lemma": "infer",
+      "negative_examples": [
+        "The guide inferred the supplies into three boxes."
+      ],
+      "part_of_speech": "verb",
+      "positive_examples": [
+        "We can infer from the tracks that an animal passed recently."
+      ],
+      "sense": "reach a conclusion from evidence rather than direct statement"
+    },
+    {
+      "allowed_collocations": [
+        "sustain the effort"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of sustain"
+      ],
+      "lemma": "sustain",
+      "negative_examples": [
+        "The rope sustained under the shelf as a location."
+      ],
+      "part_of_speech": "verb",
+      "positive_examples": [
+        "Short breaks helped the team sustain the effort."
+      ],
+      "sense": "keep an activity or process continuing over time"
+    },
+    {
+      "allowed_collocations": [
+        "verify the claim"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of verify"
+      ],
+      "lemma": "verify",
+      "negative_examples": [
+        "The claim was a verify in the folder."
+      ],
+      "part_of_speech": "verb",
+      "positive_examples": [
+        "Use the original record to verify the claim."
+      ],
+      "sense": "check that something is accurate or true"
+    },
+    {
+      "allowed_collocations": [
+        "an ambiguous instruction"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of ambiguous"
+      ],
+      "lemma": "ambiguous",
+      "negative_examples": [
+        "They ambiguous the message before lunch."
+      ],
+      "part_of_speech": "adjective",
+      "positive_examples": [
+        "The ambiguous instruction caused the groups to choose different doors."
+      ],
+      "sense": "open to more than one reasonable interpretation"
+    },
+    {
+      "allowed_collocations": [
+        "a coherent explanation"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of coherent"
+      ],
+      "lemma": "coherent",
+      "negative_examples": [
+        "The group coherent the notes."
+      ],
+      "part_of_speech": "adjective",
+      "positive_examples": [
+        "Jin gave a coherent explanation of the plan."
+      ],
+      "sense": "logical, consistent, and easy to understand as a whole"
+    },
+    {
+      "allowed_collocations": [
+        "prioritize urgent tasks"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of prioritize"
+      ],
+      "lemma": "prioritize",
+      "negative_examples": [
+        "The schedule was a prioritize."
+      ],
+      "part_of_speech": "verb",
+      "positive_examples": [
+        "The team must prioritize urgent tasks before decorating the room."
+      ],
+      "sense": "decide which tasks are most important and deal with them first"
+    },
+    {
+      "allowed_collocations": [
+        "a time constraint"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of constraint"
+      ],
+      "lemma": "constraint",
+      "negative_examples": [
+        "They constraint the supplies each morning."
+      ],
+      "part_of_speech": "noun",
+      "positive_examples": [
+        "A time constraint forced them to take the shorter route."
+      ],
+      "sense": "a limitation that restricts possible choices"
+    },
+    {
+      "allowed_collocations": [
+        "compensate for a delay"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of compensate"
+      ],
+      "lemma": "compensate",
+      "negative_examples": [
+        "The delay compensated into the bag."
+      ],
+      "part_of_speech": "verb",
+      "positive_examples": [
+        "They walked faster to compensate for a delay."
+      ],
+      "sense": "make up for a loss, weakness, or disadvantage"
+    },
+    {
+      "allowed_collocations": [
+        "evaluate the options"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of evaluate"
+      ],
+      "lemma": "evaluate",
+      "negative_examples": [
+        "The report was an evaluate."
+      ],
+      "part_of_speech": "verb",
+      "positive_examples": [
+        "The committee will evaluate the options against four criteria."
+      ],
+      "sense": "judge quality or value using stated criteria"
+    },
+    {
+      "allowed_collocations": [
+        "a plausible explanation"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of plausible"
+      ],
+      "lemma": "plausible",
+      "negative_examples": [
+        "They plausibled the route."
+      ],
+      "part_of_speech": "adjective",
+      "positive_examples": [
+        "Her account offered a plausible explanation for the missing key."
+      ],
+      "sense": "seeming reasonable or likely to be true"
+    },
+    {
+      "allowed_collocations": [
+        "a subsequent review"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of subsequent"
+      ],
+      "lemma": "subsequent",
+      "negative_examples": [
+        "They subsequent the first report."
+      ],
+      "part_of_speech": "adjective",
+      "positive_examples": [
+        "A subsequent review found an error in the first plan."
+      ],
+      "sense": "coming after something else in time or order"
+    },
+    {
+      "allowed_collocations": [
+        "integrate the evidence"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of integrate"
+      ],
+      "lemma": "integrate",
+      "negative_examples": [
+        "The evidence was an integrate."
+      ],
+      "part_of_speech": "verb",
+      "positive_examples": [
+        "The group will integrate the evidence into one proposal."
+      ],
+      "sense": "combine parts so that they work together"
+    },
+    {
+      "allowed_collocations": [
+        "identify a discrepancy"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of discrepancy"
+      ],
+      "lemma": "discrepancy",
+      "negative_examples": [
+        "They discrepancy the route at noon."
+      ],
+      "part_of_speech": "noun",
+      "positive_examples": [
+        "Mara identified a discrepancy between the two schedules."
+      ],
+      "sense": "an unexpected difference between things that should agree"
+    },
+    {
+      "allowed_collocations": [
+        "a feasible solution"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of feasible"
+      ],
+      "lemma": "feasible",
+      "negative_examples": [
+        "The engineers feasibled the bridge."
+      ],
+      "part_of_speech": "adjective",
+      "positive_examples": [
+        "The shorter bridge is a feasible solution within the budget."
+      ],
+      "sense": "possible and practical under the given conditions"
+    },
+    {
+      "allowed_collocations": [
+        "be accountable for"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of accountable"
+      ],
+      "lemma": "accountable",
+      "negative_examples": [
+        "They accountable the equipment."
+      ],
+      "part_of_speech": "adjective",
+      "positive_examples": [
+        "Each leader is accountable for the safety check."
+      ],
+      "sense": "responsible for decisions and expected to explain them"
+    },
+    {
+      "allowed_collocations": [
+        "a contingency plan"
+      ],
+      "forbidden_patterns": [
+        "metalinguistic mention of contingency"
+      ],
+      "lemma": "contingency",
+      "negative_examples": [
+        "The team contingency the map."
+      ],
+      "part_of_speech": "noun",
+      "positive_examples": [
+        "They prepared a contingency plan for heavy rain."
+      ],
+      "sense": "an event that may occur and requires a backup plan"
+    }
+  ]
+}
