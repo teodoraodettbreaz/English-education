@@ -1,0 +1,5 @@
+scope,n_specifications,n_seeds,mean_within_spec_wpc_sd,median_within_spec_wpc_sd,iqr_within_spec_wpc_sd,agp_consistent_count,agp_consistency_rate,ranking_stable_count,ranking_stability_rate
+GLOBAL-REPAIR,24,3,0.004910463758239913,0.0,0.0,23,0.9583333333333334,,
+MEAN-PATH,24,3,0.010366534601165192,0.0,0.0,21,0.875,,
+PathLex-MINIMAX,24,3,0.004910463758239913,0.0,0.0,23,0.9583333333333334,,
+method_ranking,24,3,,,,,,22,0.9166666666666666

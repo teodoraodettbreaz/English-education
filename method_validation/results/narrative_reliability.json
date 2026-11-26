@@ -1,0 +1,26 @@
+{
+  "cefr_fit": {
+    "bootstrap_high": 0.9474149525881204,
+    "bootstrap_low": 0.9145930945084509,
+    "icc_a_3": 0.9327438479873053,
+    "n_outputs": 384
+  },
+  "choice_consequence": {
+    "bootstrap_high": 0.959252071443201,
+    "bootstrap_low": 0.9297175465191471,
+    "icc_a_3": 0.945862444973951,
+    "n_outputs": 384
+  },
+  "grammar_naturalness": {
+    "bootstrap_high": 0.9375459419747713,
+    "bootstrap_low": 0.9023627616297983,
+    "icc_a_3": 0.9210865635135854,
+    "n_outputs": 384
+  },
+  "plot_coherence": {
+    "bootstrap_high": 0.9550222532549117,
+    "bootstrap_low": 0.9248702379669304,
+    "icc_a_3": 0.9412114093511831,
+    "n_outputs": 384
+  }
+}

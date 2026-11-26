@@ -1,0 +1,14 @@
+{
+  "adjudication_count": 658,
+  "adjudication_rate": 0.22705314009661837,
+  "complete_agreement_count": 2575,
+  "complete_agreement_rate": 0.888543823326432,
+  "disagreement_count": 658,
+  "disagreement_rate": 0.22705314009661837,
+  "krippendorff_alpha_nominal": 0.8358512684663929,
+  "n_items": 2898,
+  "n_rounds": 3,
+  "pair_agreement_qualified": 0.8181205793196362,
+  "pair_agreement_uncertain": 0.03117505995203837,
+  "pair_agreement_unqualified": 0.9376466644317801
+}

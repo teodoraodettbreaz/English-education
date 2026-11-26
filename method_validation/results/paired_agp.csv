@@ -1,0 +1,2 @@
+comparison,both,first_only,second_only,neither,n,risk_difference,newcombe10_low,newcombe10_high,exact_mcnemar_p,bootstrap_risk_difference,bootstrap_low,bootstrap_high
+PathLex-MINIMAX minus MEAN-PATH,144,54,6,36,240,0.19999999999999996,0.14157145675408872,0.2575174805703639,9.722961671898567e-11,0.2,0.14166666666666666,0.25833333333333336

@@ -1,0 +1,4 @@
+scope,sentinel_n,accepted_unsat_certificates,sentinel_unknown,sentinel_erroneous_feasible,sentinel_certificate_sensitivity,feasible_n,false_unsat_count,feasible_unknown_count
+sentinel_total,24,22,2,0,0.9166666666666666,240,0,3
+OCC_DEPTH_CONFLICT,12,11,1,0,,,,
+SPACING_CONFLICT,12,11,1,0,,,,
