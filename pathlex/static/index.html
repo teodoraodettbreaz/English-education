@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="PathLex creates finite branching English stories with auditable vocabulary opportunities on every reachable path."
+    />
+    <title>PathLex</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#app-main" data-i18n="skip">Skip to main content</a>
+
+    <header class="site-header">
+      <a class="brand" href="#home" aria-label="PathLex home" data-i18n-aria="brandHome">
+        <svg class="brand-mark" viewBox="0 0 42 42" aria-hidden="true">
+          <path d="M7 8v10c0 3 2 5 5 5h7" />
+          <path d="M19 23h8c4 0 7 3 7 7v4" />
+          <path d="M19 23h5c3 0 5-2 5-5V8" />
+          <circle cx="7" cy="7" r="3" />
+          <circle cx="29" cy="7" r="3" />
+          <circle cx="34" cy="35" r="3" />
+        </svg>
+        <span>PathLex</span>
+      </a>
+
+      <nav class="primary-nav" aria-label="Primary navigation" data-i18n-aria="navLabel">
+        <button class="nav-link" type="button" data-route="home" data-i18n="navHome">Home</button>
+        <button class="nav-link" type="button" data-route="teacher" data-i18n="navTeacher">Teacher studio</button>
+        <button class="nav-link" type="button" data-route="library" data-i18n="navStudent">Story library</button>
+      </nav>
+
+      <div class="header-actions">
+        <span class="service-light" id="service-light" aria-hidden="true"></span>
+        <span class="sr-only" id="service-status" aria-live="polite"></span>
+        <div class="language-switch" role="group" aria-label="Language" data-i18n-aria="languageLabel">
+          <button type="button" data-language="en" aria-pressed="true">English</button>
+          <span aria-hidden="true">/</span>
+          <button type="button" data-language="zh" aria-pressed="false">中文</button>
+        </div>
+      </div>
+    </header>
+
+    <main id="app-main" tabindex="-1">
+      <noscript>
+        <section class="noscript-note">
+          PathLex needs JavaScript for authoring and playing branching stories. / PathLex
+          需要 JavaScript 才能创建和游玩分支故事。
+        </section>
+      </noscript>
+      <div id="app" aria-live="polite"></div>
+    </main>
+
+    <div class="toast-region" id="toast-region" aria-live="polite" aria-atomic="true"></div>
+
+    <footer class="site-footer">
+      <p data-i18n="footerScope">Finite stories. Explicit constraints. No claim beyond the audited graph.</p>
+      <button type="button" class="text-button" id="reset-language" data-i18n="resetLanguage">
+        Reset language preference
+      </button>
+    </footer>
+
+    <script src="/static/app.js" defer></script>
+  </body>
+</html>
