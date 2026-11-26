@@ -1,0 +1,36 @@
+{
+  "annotation_seeds": [
+    2026112111,
+    2026112112,
+    2026112113
+  ],
+  "candidate_opportunities": 2898,
+  "comparison_input": "same finite graph, initial realization, candidate pool, verifier outputs, and repair budget",
+  "external_model_calls": 0,
+  "generation_mode": "frozen controlled offline candidate replay",
+  "main_seed": 2026112102,
+  "max_repairs": 3,
+  "method_outputs": 720,
+  "methods": [
+    "GLOBAL-REPAIR",
+    "MEAN-PATH",
+    "PathLex-MINIMAX"
+  ],
+  "narrative_seeds": [
+    2026112131,
+    2026112132,
+    2026112133
+  ],
+  "pathlex_version": "0.1.0",
+  "production_model_not_invoked": true,
+  "python_version": "3.12.3",
+  "reference_version": "lexical-opportunity-rubric-1.0.0",
+  "runner_version": "pathlex-method-validation-runner-1.0.0",
+  "sentinel_outputs": 24,
+  "sentinels": 24,
+  "stability_outputs": 216,
+  "test_specifications": 240,
+  "verifier_seed": 2026112121,
+  "verifier_version": "frozen-conservative-verifier-1.0.0",
+  "wall_time_seconds": 31.531247
+}
