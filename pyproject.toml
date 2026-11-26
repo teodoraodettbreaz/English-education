@@ -1,0 +1,17 @@
+[project]
+name = "pathlex"
+version = "0.1.0"
+description = "Worst-path lexical opportunity planning for finite branching stories"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.scripts]
+pathlex = "pathlex.__main__:main"
+
+[tool.setuptools]
+packages = ["pathlex"]
+py-modules = ["openai_messages_client"]
+
+[tool.setuptools.package-data]
+pathlex = ["static/*"]
+
